@@ -14,7 +14,7 @@ spring:
       username: root
       password: booszy
   application:
-    name: springcloud-provider-config
+    name: biteye-provider
   profiles:
     active: test
 logging:

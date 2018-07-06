@@ -3,4 +3,4 @@ server:
 zuul:
   routes:
     springcloud-consume-config: /consumer/**
-    springcloud-provider-config: /provider/**
+    biteye-provider: /provider/**
