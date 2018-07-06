@@ -29,3 +29,4 @@ logging:
     com.yasaka.stock : debug
 server:
   port: 8100
+  
