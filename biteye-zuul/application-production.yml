@@ -4,3 +4,4 @@ zuul:
   routes:
     springcloud-consume-config: /consumer/**
     biteye-provider: /provider/**
+    biteye-bao-msg: /provider/**
