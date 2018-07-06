@@ -1,6 +1,6 @@
-#springcloud-config-profile
+#biteye-config-profile
 
-springcloud-config-server-profile springcloud远程拉取的配置文件
+biteye-config-server-profile biteye远程拉取的配置文件
 
 文件夹为项目名
 
