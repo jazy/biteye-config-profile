@@ -13,7 +13,7 @@ spring:
 #      url: jdbc:mysql://13.58.87.174:3306/spcloud
 #      username: root
 #      password: booszy
-      url: jdbc:mysql://localhost:3306/spcloud
+      url: jdbc:mysql://localhost:3306/bihu
       username: root
       password: ..love..
   application:
@@ -26,7 +26,7 @@ logging:
     org.hibernate : info
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
-    com.yasaka.stock : debug
+    com.tokendary.biteye : debug
 server:
   port: 8100
   

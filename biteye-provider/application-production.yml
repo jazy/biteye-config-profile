@@ -19,6 +19,6 @@ logging:
     org.hibernate : info
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
-    com.yasaka.stock : debug
+    com.tokendary.biteye : debug
 server:
   port: 8100
